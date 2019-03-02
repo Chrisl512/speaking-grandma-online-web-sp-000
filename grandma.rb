@@ -1,5 +1,7 @@
-speak_to_grandma("HEY MA")
-
+speak_to_grandma(phrase = "HEY MA")
+  if phrase == "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+    
 
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
