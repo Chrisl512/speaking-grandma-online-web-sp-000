@@ -1,8 +1,11 @@
-speak_to_grandma(phrase = "HEY MA")
+def speak_to_grandma(phrase = "Hey Ma")
   if phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
+  elsif phrase.uppercase ==
+    return "NO, NOT SINCE 1938!"
     
-
+  end
+end
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 
